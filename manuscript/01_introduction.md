@@ -21,7 +21,7 @@ Rather than simply iterating on Agile methods, Flow-oriented development explici
 It's not merely about agility in responsiveness; it's about systematically removing impediments to rapid, predictable, and sustainable delivery of customer value.
 Flow-oriented thinking highlights reducing friction, clearly defining team responsibilities, and creating an environment where developers can work productively and sustainably.
 
-## But what exactly is *Flow*?
+## But what exactly is **Flow**?
 
 Flow originates from lean manufacturing and systems thinking.
 It embodies the concept of continuously moving value smoothly and efficiently through the entire software development process.
