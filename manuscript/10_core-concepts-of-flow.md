@@ -93,7 +93,7 @@ Teams gain the ability to deliver valuable software quickly and predictably, mai
 
 A> ## Principles for Improving Flow
 A>
-A> Outcome-oriented Work: Shift your perspective from merely completing A> activities toward clearly defined, meaningful outcomes that genuinely address customer needs or business objectives.
+A> Outcome-oriented Work: Shift your perspective from merely completing activities toward clearly defined, meaningful outcomes that genuinely address customer needs or business objectives.
 A>
 A> Favor Non-blocking Collaboration: Structure processes and interactions so that collaboration between teams and individuals occurs smoothly, reducing waiting times, frequent handoffs, and bottlenecks that typically slow down progress.
 A>
