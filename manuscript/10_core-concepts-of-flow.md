@@ -115,6 +115,58 @@ Remember when your company first dabbled in AI? A small team of 5-10 enthusiasts
 
 We're standing at the threshold of something much bigger. The isolated AI experiments are giving way to full-scale, AI-powered software engineering that's reshaping how enterprises build systems from the ground up. This isn't just adding a new tool to the toolbox—it's rebuilding the entire workshop.
 
+### Defining AI in the Context of Development Flow
+
+Before diving into how AI transforms development flow, let's clarify what we mean by "AI" throughout this book. While artificial intelligence encompasses a broad range of technologies, our focus is primarily on the recent wave of generative AI systems and related technologies that are specifically reshaping software development practices.
+
+#### Our AI Focus: Generative AI and Development Tools
+
+When we discuss AI in this book, we're mainly talking about:
+
+**Large Language Models (LLMs)**: These are the foundation of most AI tools transforming development today. Models like GPT-4, Claude, and Llama have demonstrated remarkable capabilities in understanding and generating code, translating between natural language and programming languages, and reasoning about complex software problems. When we mention "the model" or "language models," this is what we're referring to.
+
+**Code-Specialized LLMs**: Some models are specifically fine-tuned for code generation and understanding. Examples include GitHub Copilot (based on OpenAI's models) and Amazon CodeWhisperer. We'll occasionally reference these specialized models when discussing coding assistance specifically.
+
+**Retrieval-Augmented Generation (RAG)**: This approach combines LLMs with information retrieval systems, allowing AI to access and incorporate specific knowledge bases—like your codebase, documentation, or architecture diagrams. When we talk about AI "understanding your system" or "knowing your context," we're typically referring to RAG implementations.
+
+**Multi-modal Models**: These systems can process and generate multiple types of content—text, code, images, and sometimes even audio or video. Their ability to understand diagrams, UI mockups, and other visual artifacts makes them particularly valuable for certain development tasks. We'll use "multi-modal" specifically when discussing these capabilities.
+
+**Agents and Autonomous Systems**: These are AI systems designed to take actions based on goals, often employing LLMs as their reasoning engine. Development agents might refactor code, fix bugs, or even implement entire features with minimal human intervention. When we discuss "AI agents" or "autonomous development," this is what we're referring to.
+
+**Function Calling**: This capability allows LLMs to interact with external tools and APIs, greatly extending their utility for development tasks. Function calling enables AI to access version control, run tests, query databases, and perform other operations outside its core capabilities. We'll specifically mention "function calling" when discussing these integrations.
+
+#### What We're Not Focusing On
+
+While important in other contexts, the following AI domains receive less attention in this book as they have less direct impact on development flow:
+
+- Traditional machine learning for data analysis and prediction
+- Computer vision systems (except when part of multi-modal development tools)
+- Robotic process automation
+- Expert systems and rule-based AI approaches
+
+That's not to say these technologies are irrelevant to software development—they're just not the primary drivers of the flow transformations we're exploring.
+
+#### Terminology in This Book
+
+To maintain clarity throughout the book, we'll use the following terminology:
+
+- **AI assistance/AI-assisted development**: Human developers working with AI tools that augment their capabilities but don't replace their decision-making role.
+- **AI augmentation**: Using AI to enhance human capabilities rather than replace them.
+- **AI pair programming**: Collaborative coding where the AI functions as a pair programmer, suggesting approaches, generating code, and reviewing solutions.
+- **AI agents**: More autonomous systems that can complete tasks with minimal human supervision.
+- **Prompt engineering**: The practice of crafting effective instructions for AI systems.
+- **Context window**: The amount of information an LLM can consider at once (its "working memory").
+
+We've deliberately avoided overusing acronyms throughout the book. Rather than repeatedly referring to "LLMs" or "RAG systems," we often simply use "AI tools" or "AI systems" when the specific technology isn't crucial to the point being made.
+
+#### State of the Field
+
+It's worth acknowledging that AI for software development is evolving rapidly. What constitutes state-of-the-art today may be baseline functionality tomorrow. Throughout this book, we focus on the fundamental patterns and approaches that we believe will remain valuable even as the specific tools evolve.
+
+When we describe specific capabilities or limitations, we're generally referring to the state of technology as of early 2025. But the principles of optimizing development flow with AI should remain relevant regardless of how the underlying technologies advance.
+
+With these definitions in mind, let's explore how these AI capabilities transform the landscape of software development flow.
+
 ### The Great Reorganization
 
 The traditional enterprise software organization—with its well-defined roles, ceremonies, and delivery cadences—worked well for decades. But when AI capabilities start permeating every aspect of development, the game changes fundamentally.
