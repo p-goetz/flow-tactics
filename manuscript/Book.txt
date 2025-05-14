@@ -1,6 +1,7 @@
 01_introduction.md
 02_foreword.md
-10_core-concepts-of-flow.md
+11_core-concepts-of-flow.md
+12_ai-as-flow-booster.md
 20_boosters-for-faster-development-flow.md
 21_understand-value.md
 22_optimize-flow.md
