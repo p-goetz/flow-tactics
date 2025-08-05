@@ -8,24 +8,6 @@ Recognizing these shortcomings, the industry shifted towards **Agile Software De
 
 In reaction to these shortcomings of Agile, we witnessed another evolutionary step—a transition toward what we call **Flow-oriented software development**. Rather than simply iterating on Agile methods, Flow-oriented development explicitly prioritizes uninterrupted, continuous streams of value delivery, emphasizing smooth progress over maximum resource utilization. It's not merely about agility in responsiveness; it's about systematically removing impediments to rapid, predictable, and sustainable delivery of customer value. Flow-oriented thinking highlights reducing friction, clearly defining team responsibilities, and creating an environment where developers can work productively and sustainably.
 
-## Enter AI: The New Catalyst for Flow
-
-The integration of AI tools like Large Language Models (LLMs), autonomous coding agents, and context-aware assistants is acting as a powerful accelerant for Flow-oriented development. These systems don't merely automate existing processes—they fundamentally transform how software is conceived, written, tested, and deployed.
-
-Consider how AI is reshaping Flow across multiple dimensions:
-
-**Amplifying Developer Capabilities**: Where Flow-oriented practices sought to reduce cognitive load by clarifying responsibilities and reducing context-switching, AI assistants now actively shoulder cognitive burdens. They generate boilerplate code, suggest implementations, draft documentation, and even complete complex algorithms—allowing developers to focus on higher-level thinking and creative problem-solving.
-
-**Collapsing Value Stream Steps**: Traditional Flow improvements focused on streamlining handoffs between specialized roles. AI tools now blur these boundaries entirely, with systems that can translate high-level requirements directly into functional code, generate tests automatically, and even detect potential issues before human reviewers ever see them.
-
-**Accelerating Feedback Cycles**: Flow-oriented practices emphasized frequent feedback to guide development. AI systems take this principle to new heights, providing instant feedback on code quality, security implications, performance considerations, and adherence to architectural patterns—often before the developer has even finished typing.
-
-**Democratizing Expertise**: Where Flow approaches worked to reduce dependency bottlenecks, AI now democratizes specialized knowledge. Junior developers can leverage AI assistants that encode patterns and practices from countless codebases, reducing their reliance on scarce expert resources and allowing teams to move more independently.
-
-But this AI revolution brings its own challenges. The sheer velocity of AI-powered development can overwhelm downstream processes not designed for such throughput. The boundaries between human and machine contributions raise new questions about quality assurance, knowledge retention, and system understanding. And the very power of these tools demands thoughtful integration with existing practices to avoid creating new forms of waste and inefficiency.
-
-## The Fourth Evolution: AI-Powered Flow
-
 We now stand at the beginning of what we might call the fourth major evolution in software development methodology: **AI-Powered Flow**. This approach retains the core principles of Flow-oriented development—continuous value delivery, friction reduction, and sustainable pace—but reimagines them in the context of human-AI collaboration.
 
 In AI-Powered Flow, we're not simply applying AI tools to existing processes. Rather, we're reconceptualizing the entire value stream with AI as a fundamental component—a collaborator that works alongside human developers rather than merely serving as their tool. This requires fresh thinking about team structures, quality assurance, knowledge management, and the very nature of developer work.
