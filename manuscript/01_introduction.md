@@ -8,14 +8,6 @@ Recognizing these shortcomings, the industry shifted towards **Agile Software De
 
 In reaction to these shortcomings of Agile, we witnessed another evolutionary step—a transition toward what we call **Flow-oriented software development**. Rather than simply iterating on Agile methods, Flow-oriented development explicitly prioritizes uninterrupted, continuous streams of value delivery, emphasizing smooth progress over maximum resource utilization. It's not merely about agility in responsiveness; it's about systematically removing impediments to rapid, predictable, and sustainable delivery of customer value. Flow-oriented thinking highlights reducing friction, clearly defining team responsibilities, and creating an environment where developers can work productively and sustainably.
 
-## What Exactly is Flow?
-
-Before diving into how AI transforms Flow, let's clarify what we mean by "Flow" itself.
-
-Flow originates from lean manufacturing and systems thinking. It embodies the concept of continuously moving value smoothly and efficiently through the entire software development process. At its core, Flow is about delivering valuable software predictably and consistently, while actively identifying and eliminating interruptions, delays, and unnecessary complexity.
-
-Flow isn't confined to a single method, framework, or domain; rather, it's an omnipresent principle at the core of today's most effective software engineering practices. Embracing Flow helps organizations see beyond specific methodologies and understand software development holistically—as a value-driven, continuous process demanding careful, proactive optimization.
-
 ## Enter AI: The New Catalyst for Flow
 
 The integration of AI tools like Large Language Models (LLMs), autonomous coding agents, and context-aware assistants is acting as a powerful accelerant for Flow-oriented development. These systems don't merely automate existing processes—they fundamentally transform how software is conceived, written, tested, and deployed.
