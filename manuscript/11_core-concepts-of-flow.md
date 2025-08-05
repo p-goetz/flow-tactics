@@ -4,7 +4,7 @@ Flow is rooted in lean principles and focuses on the continuous and efficient mo
 It emphasizes not just doing work, but ensuring the work performed creates tangible customer and business outcomes.
 Achieving optimal Flow means minimizing friction, interruptions, and unnecessary complexity while promoting speed, predictability, and sustainability in delivering software.
 
-To better understand the foundational ideas behind Flow, let’s take a look at the foundational works.
+To better understand the ideas behind Flow, let’s take a look at the foundational works.
 "The Principles of Product Development Flow: Second Generation Lean Product Development" by Donald G. Reinertsen systematically introduces the concept of Flow, specifically within the context of product and software development.
 The book highlights that efficient Flow is essential for rapidly delivering valuable products and features, emphasizing speed, responsiveness, and adaptability to achieve superior outcomes.
 
@@ -39,15 +39,16 @@ Each of these approaches incorporates Flow to streamline processes, reduce frict
 Kanban deeply integrates Flow principles by explicitly visualizing the movement of tasks through clearly defined stages.
 By presenting tasks visually, Kanban offers transparency and immediate insights into workflow status, bottlenecks, and areas that need attention.
 Kanban teams limit their Work in Progress (WIP), ensuring resources aren't overloaded.
+They use flow metrics to measure the flow of work and optimize their workflow based on these.
 This focus on managing capacity encourages smoother task progression, minimizes context-switching, and facilitates quick identification and resolution of issues that impede progress.
 As a result, teams experience fewer delays, more predictability, and increased throughput—ultimately achieving a smoother, more reliable flow of work.
 
 ### DevOps
 
-DevOps embodies Flow by emphasizing rapid, continuous, and automated software delivery pipelines.
-At its core, DevOps removes traditional silos between development and operations, enabling tighter collaboration, better communication, and joint ownership of outcomes.
+DevOps embodies Flow by taking the whole system of value delivery into account.
+At its core, DevOps removes traditional silos between teams and departments, enabling tighter collaboration, better communication, and joint ownership of outcomes.
 DevOps practices such as Continuous Integration (CI), Continuous Delivery (CD), automated testing, and infrastructure-as-code eliminate bottlenecks by speeding up feedback loops, reducing errors, and automating routine tasks.
-With DevOps, changes flow swiftly from development to production, creating rapid feedback loops and a culture of experimentation and learning that enhances both velocity and quality.
+With DevOps, changes flow swiftly from idea to production, creating rapid feedback loops and a culture of experimentation and learning that enhances both velocity and quality.
 
 ### Team Topologies
 
@@ -74,7 +75,7 @@ Platform engineering teams actively work to reduce developer toil and streamline
 This results in fewer interruptions, reduced cognitive load, and accelerated software delivery, ultimately enabling a smoother and more continuous Flow.
 
 Collectively, Kanban, DevOps, Team Topologies, Domain-Driven Design, and Platform Engineering each represent modern approaches to achieving Flow in software development.
-By understanding and integrating these methodologies, organizations can dramatically reduce friction, shorten delivery times, increase productivity, and sustain higher-quality outcomes—ultimately positioning themselves to adapt and respond swiftly to evolving market and customer demands.
+By understanding and integrating these ideas, organizations can dramatically reduce friction, shorten delivery times, increase productivity, and sustain higher-quality outcomes—ultimately positioning themselves to adapt and respond swiftly to evolving market and customer demands.
 
 ## Our view - The 7 Areas of Flow
 
